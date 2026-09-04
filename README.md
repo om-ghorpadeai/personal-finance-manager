@@ -10,7 +10,7 @@ A simple Python-based application to manage personal finances.
 - View financial records 📊
 - Calculate current balance
 
----
+----
 
 ## 🛠️ Technologies Used
 - Python
