@@ -2,7 +2,7 @@
 
 A simple Python-based application to manage personal finances.
 
----
+----
 
 ## 🚀 Features
 - Add income 💰
